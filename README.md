@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Xarlley
-- 👀 I’m interested in Machine Learning, especially the yolo series and the spiking neuron network.
-- 🌱 I’m currently learning how to combine the tec of yolo and snn.
-- 💞️ I’m looking to collaborate on none.
+- 👀 Focus on Machine Learning, Linux Drivers, Firmware.
 - 📫 How to reach me: Charlley.g.l@Gmail.com 
 
 <!---
