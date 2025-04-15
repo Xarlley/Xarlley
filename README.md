@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xarlley. Also Charlley, Xharlley.
-- 👀 Focus on Neuromorphic Computing, Searching, Website and Linux.
+- 👀 Focus on Searching, Website and Linux.
 - 📫 How to reach me: Charlley.g.l@Gmail.com 
 
 <!---
