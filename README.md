@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xarlley. Also Charlley, Xharlley.
-- 👀 Focus on Searching, Website and Linux.
+- 👀 Focus on LLVM and Linux. Searching-Tec and Website just for fun.
 - 📫 How to reach me: Charlley.g.l@Gmail.com 
 
 <!---
